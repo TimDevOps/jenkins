@@ -29,7 +29,8 @@
 </script>
  <style type="text/css">
 	body{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;font-size:13px;line-height:1.846;
-	color:#666666;background-color:<?php $couleur ="white";echo $couleur;?>}
+	
+		:#666666;background-color:<?php $couleur ="yellow";echo $couleur;?>}
  </style>
   </head>
   <body>
